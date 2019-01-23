@@ -35,7 +35,7 @@ theme="ghostwriter"
 
 [[menu.main]]
     name = "Blog"
-    url = "/posts"
+    url = "/"
     weight = 1
 
 [[menu.main]]
