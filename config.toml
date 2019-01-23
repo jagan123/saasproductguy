@@ -11,10 +11,9 @@ theme="ghostwriter"
 
 [Params]
     intro = true
-    headline = "SaaS Product Guy"
-    description = "Ideas to MVP and beyond"
+    headline = ""
+    description = ""
     twitter = "https://twitter.com/jagan123"
-    email = "jagan.ganti@gmail.com"
     opengraph = true
     shareTwitter = true
     shareFacebook = true
