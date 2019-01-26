@@ -1,7 +1,9 @@
 ---
 title: "Writing as a Habit"
+tags : ["writing", "hobby", "self help"]
 date: 2019-01-24T15:10:10+05:30
 draft: false
+
 ---
 
 Writing is hard. Incredibly hard. How many times have you tried to write a blog post on a general interesting topic (outside of your work task) but dropped the idea altogether? 
