@@ -19,6 +19,7 @@ googleAnalytics = "UA-35051660-10"
     opengraph = true
     shareTwitter = true
     shareFacebook = true
+    shareLinkedin = true
     shareGooglePlus = false
     shareLinkedIn = false
     dateFormat = "Mon, Jan 2, 2006"
