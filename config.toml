@@ -30,6 +30,9 @@ title="Jagan Ganti : SaaS Product Guy"
     readingTime = false
     readingTimeText = "Estimated reading time:"
 
+[params.favicon]
+    Enable = true
+
 [Permalinks]
     post = "/:filename/"
 
