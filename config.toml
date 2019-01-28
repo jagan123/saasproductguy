@@ -1,7 +1,7 @@
 baseURL = "https://saasproductguy.com/"
 languageCode = "en-us"
 theme="ghostwriter"
-title="Jagan Ganti : SaaS Product Guy"
+title="SaaS Product Guy"
 googleAnalytics = "UA-35051660-10"
 
 [Author]
