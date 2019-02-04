@@ -7,13 +7,15 @@ draft: false
 As product managers, we take decisions in our work life almost on a daily basis. Some we take by looking at our existing user data, others by the market research and few by the entrepreneurial “gut” feeling that comes with deep understanding and experience.
 
 Among those plethora of decisions we take, what if you have to decide among the following for a product feature
-- Building it right
-- Building it now 
-And sometimes, Building it right, now
 
+- Building it right
+- Building it now
+
+And sometimes, Building it right, now
 How to choose one?
 
 There’s an easy way out here is going by the Jeff Bezo’s principle: 
+
 > If it’s reversible, build it now than build it right.
 
 That’s the mantra. You can also apply this to doing it now or doing it right, Building the product right vs building the right product.
