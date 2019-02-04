@@ -7,8 +7,8 @@ draft: false
 As product managers, we take decisions in our work life almost on a daily basis. Some we take by looking at our existing user data, others by the market research and few by the entrepreneurial “gut” feeling that comes with deep understanding and experience.
 
 Among those plethora of decisions we take, what if you have to decide among the following for a product feature
--> Building it right
--> Building it now 
+- Building it right
+- Building it now 
 And sometimes, Building it right, now
 
 How to choose one?
