@@ -23,4 +23,4 @@ This is a questions that stops many from attempting to write. Believe that you a
 
 If you are inquisitive on a topic, and even if you haven’t mastered it, you can start blogging or talking about it, your learnings and experiences will help others venturing out into the same area. That’s how I started with this blog.
 
-Just as I have this in draft, Sid wrote this amazing piece and discusses in detail on what stops someone from blogging. Please subscribe to his newsletter. https://buttondown.email/sid/archive/39-so-you-want-to-start-a-blog/
+Just as I have this in draft, Sid wrote this amazing piece and discusses in detail on what stops someone from blogging. Please subscribe to his newsletter. https://sid.studio/post/start-a-blog/
