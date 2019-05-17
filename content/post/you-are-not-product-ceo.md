@@ -1,10 +1,10 @@
 ---
 title: "You are not the CEO of the product you manage"
 date: 2019-02-05T14:25:16+05:30
-draft: false
+draft: true
 ---
 
-I lost count of the number of times people refer product managers as the CEO of their product. I have a countering argument to this. PMs are not the CEOs of the product.
+I lost count of the number of times people refer product managers as the mini CEOs of their product. I have a countering argument to this. PMs are not the CEOs of the product.
 
 PMs main objective revolves around the product and customers and not the gazillion other stuff a CEO worries about viz., raising money or hiring.  In the beginning of my career it gave me immense sense of pride to believe I was the mini CEO.  Only later when I ventured to build my own product, boy I realised how tough of a job is to be a CEO/founder.  
 
