@@ -1,7 +1,7 @@
 ---
 title: "Being a Product Magician"
 date: 2019-06-04T12:54:06+05:30
-draft: true
+draft: false
 ---
 
 Back in the late 90s, as a child I watched few road side magic shows. Little did I know then a PM is expected to be the magician in a software organisation.
