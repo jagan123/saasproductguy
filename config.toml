@@ -12,10 +12,13 @@ googleAnalytics = "UA-35051660-10"
     tag = "tags"
 
 [Params]
+    mainSections = ["post"]
     intro = true
-    headline = ""
+    headline ="SaaS Product Guy"
     description = ""
     twitter = "https://twitter.com/jagan123"
+    linkedin = "https://linkedin.com/in/jagan123"
+    email = "jagan.ganti@gmail.com"
     opengraph = true
     shareTwitter = true
     shareFacebook = true
@@ -37,6 +40,7 @@ googleAnalytics = "UA-35051660-10"
 
 [Permalinks]
     post = "/:filename/"
+    page = "/:filename/"
 
 [[menu.main]]
     name = "Blog"
@@ -45,5 +49,5 @@ googleAnalytics = "UA-35051660-10"
 
 [[menu.main]]
     name = "About"
-    url = "/page/about/"
+    url = "/about/"
     weight = 2

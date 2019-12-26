@@ -1,8 +1,8 @@
 ---
 title: "4 Underrated Product Management Tasks"
 date: 2019-12-26T15:05:27+05:30
-draft: true
-tags : ["product management", "build audience", "how to"]
+draft: false
+tags : ["product management", "how to"]
 ---
 
 Good product managers are more of a generalists than specialists in any organisation. Right from idea brainstorming and validation to getting the final feature shipped with good UX and KPIs monitored after launch, a product manager has her finger prints all over. While lot of PM talk revolves around the good parts, there are some grunt tasks that a product manager has do to get their feature successful. Let’s look at some of the less exciting / celebrated tasks of a product manager.
