@@ -1,7 +1,7 @@
 ---
 title: "A decade in review - Of trying to build products"
 date: 2020-01-02T12:33:21+05:30
-draft: true
+draft: false
 tags : ["career", "life"]
 ---
 
