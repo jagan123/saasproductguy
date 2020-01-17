@@ -1,6 +1,7 @@
 ---
 title: "Tech Cheatsheet for the Non Technical PM"
 date: 2020-01-17T08:00:26+05:30
+tags : ["product management", "learning"]
 draft: false
 ---
 
