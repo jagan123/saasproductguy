@@ -17,7 +17,11 @@ How to win? By writing a good PRD and scribing MoMs after every meeting.
 
 — Communication with customers:   
 On the feedback iteration, roadmap, demos and user interviews.    
-How to win? By being charming with product knowledge and empathising with the users on the problems faced.
+How to win? By being charming with product knowledge and empathising with the users on the problems faced.   
+
+— Storytelling:   
+Be good at narrating an incident, a backstory or tie up to events or characters that the target audience relate to and empathise with. 
+
 
 This also directly relates to how good we are with **negotiation**   
 — In getting a buy-in from the leadership   
