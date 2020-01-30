@@ -6,10 +6,10 @@ draft: false
 
 During 2011-13, while I was a PM at a helpdesk startup, competitor analysis was going through the product websites, their PR, google alerts and twitter to see what’s going on with a company and send some notes email to the CEO with the findings. 
 
-Very soon I learnt about the SWOT analysis but never put effort in framing the findings into the template. Fast forward 2020 and me still being in a PM role, wanted to do SWOT analysis as a fun exercise. What better domain to pick up than the good old helpdesk and customer service management enterprise products? A lot changed over these past few years. For a moment, Zendesk, Salesforce and Freshdesk offerings are unrecognizable from how they were during 2013.
+Very soon I learnt about the SWOT analysis but never put effort in framing the findings into a template. Fast forward 2020, I wanted to do SWOT analysis as a fun exercise. What better domain to pick up than the good old helpdesk and customer service management enterprise products? A lot changed over these past few years. For a moment, Zendesk, Salesforce and Freshdesk offerings are unrecognizable from how they were during 2013.
 
-This is how I started.    
-— Navigating to  each of the 4 websites. Exploring and taking one word pointers.   
+So, this is how I started.    
+— Navigating to  each of the 5 websites. Exploring and taking one word pointers.   
 — Starting with the features, pricing and plan comparisons and slowly break down into the SWOT categories for each of the company.   
 
 This is how it ended up looking   
