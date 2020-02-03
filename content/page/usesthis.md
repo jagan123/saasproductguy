@@ -9,7 +9,7 @@ This list is inspired from [Uses This / Interviews](https://usesthis.com/) and t
 
 ### Hardware
 * Macbook Pro 2016 - Work machine given by Kony. I use this as a personal device too.
-* MacBook Air 13”: Got this in 2014. Works reliably even today. I was yearning for this since my first job, but could only afford it 3 years later.
+* MacBook Air 13”: Got this in 2015. Works reliably even today. I was yearning for this since my first job, but could only afford it 3 years later.
 * iPhone XR: Upgraded from 5S
 * iPad + Pencil: It’s fun to sketch. And the iPad is my go-to device for video content consumption. Idea is to use this as my note taking and wire framing tool with the pencil.
 * Apple Airpods 2: Best purchase of 2019.  You see, I’m tied to Apple ecosystem :)
