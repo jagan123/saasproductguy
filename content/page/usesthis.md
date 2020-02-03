@@ -54,7 +54,7 @@ On Phone
 
 ### Domains & Tech
 * Google Firebase. For all backend & side hustle experiments. Sometimes DigitalOcean / Heroku
-* Domains: name.com and namecheap. I hate GoDaddy for their dark pricing practices and the amount of upselling goes during the checkout flow. Avoid. Search domain availability at iwantmyname.com
+* Domains: name.com and namecheap. I hate GoDaddy for their dark pricing practices and the amount of upselling goes during the checkout flow. Avoid. I search for domain availability at iwantmyname.com Also subscribed to park.io to get alerts of cool expiring domain names.
 * Carrd.co for landing pages. $20/year
 * Wix.com for a simple website. It’s cheap! - Rs30/month
 * Netlify.com - that’s where this blog is hosted. Free!
