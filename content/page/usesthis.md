@@ -29,7 +29,7 @@ On Mac
 * Lastpass extension - this seems buggy but I'm living with it
 * Slack - Office communication + some other public workspaces (unofficed, remoteIndian, makerskitchen and InvertedPassion). I take notes in DM self during every meeting.
 * Zoom - calls & meetings
-* Camtasia 2018 - Video editor. I record screen using Quicktime player and edit raw screen recordings here
+* Camtasia 2018 - Video editor. I record screen using Quicktime player and edit raw screen recordings here. My office bought the license. 
 
 On Phone
 
