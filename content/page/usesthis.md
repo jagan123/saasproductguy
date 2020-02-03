@@ -50,7 +50,7 @@ On Phone
 * Kuvera
 * Zerodha for trading
 * Paisa vaisa and money control podcasts
-
+* I'm exploring streak.tech and sensibull.com
 
 ### Domains & Tech
 * Google Firebase. For all backend & side hustle experiments. Sometimes DigitalOcean / Heroku
