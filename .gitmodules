@@ -7,3 +7,9 @@
 [submodule "themes/mini"]
 	path = themes/mini
 	url = https://github.com/nodejh/hugo-theme-mini.git
+[submodule "ghostwriter"]
+	path = ghostwriter
+	url = https://github.com/jbub/ghostwriter
+[submodule "themes/themes/ghostwriter"]
+	path = themes/themes/ghostwriter
+	url = https://github.com/jbub/ghostwriter
