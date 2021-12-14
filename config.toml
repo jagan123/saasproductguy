@@ -1,6 +1,6 @@
 baseURL = "https://saasproductguy.com/"
 languageCode = "en-us"
-theme="ghostwriter"
+theme="PaperMod"
 title="SaaS Product Guy"
 googleAnalytics = "UA-35051660-10"
 
