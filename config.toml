@@ -33,6 +33,8 @@ googleAnalytics = "UA-35051660-10"
     exponeaToken = ""
     exponeaTrackVisits = false
     readingTime = false
+    ShowShareButtons = true
+    ShowPostNavLinks = true
     readingTimeText = "Estimated reading time:"
 
 [params.favicon]
